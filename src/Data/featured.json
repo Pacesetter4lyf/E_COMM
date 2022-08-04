@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Men Polo",
+        "price": 4500,
+        "old_price": 8600,
+        "image": "https://dictionary.cambridge.org/images/thumb/Tshirt_noun_001_18267_2.jpg?version=5.0.230",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "category": "Clothings",
+        "brand": "Polo",
+        "favorite": true
+      },
+      {
+        "id": 2,
+        "name": "HeadSet",
+        "price": 220000,
+        "old_price": 340000,
+        "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "category": "Gadgets",
+        "brand": "Sony",
+        "favorite": false
+      },
+      {
+        "id": 3,
+        "name": "Phone Stand",
+        "price": 4500,
+        "old_price": 9800,
+        "image": "https://www.u-buy.com.ng/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjEtNHk1c0R5eFMuX0FDX1NMMTUwMF8uanBn.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "category": "Gadgets",
+        "brand": "Opic",
+        "favorite": false
+      },
+      {
+        "id": 4,
+        "name": "Iphone X",
+        "price": 26000,
+        "old_price": 56000,
+        "image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/D/V/144356_1543477776.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "category": "Mobile Phones",
+        "brand": "Apple",
+        "favorite": false
+      }
+]

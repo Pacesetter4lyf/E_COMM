@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Office Chair",
+        "price": 467000,
+        "old_price": 578000,
+        "image": "https://sojionet.com/wp-content/uploads/2021/01/full-ergonomic-chair.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "category": "Others",
+        "brand": "Sony",
+        "favorite": false
+      },
+      {
+        "id": 2,
+        "name": "Samsung S21",
+        "price": 467000,
+        "old_price": 578000,
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2Ftc3VuZyUyMHBob25lfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "category": "Gadgets",
+        "brand": "Samsung",
+        "favorite": true
+      },
+      {
+        "id": 3,
+        "name": "HoverBoard",
+        "price": 280000,
+        "old_price": 298000,
+        "image": "https://media.istockphoto.com/photos/rendering-of-a-single-hoverboard-picture-id1185614389?k=20&m=1185614389&s=612x612&w=0&h=32knSx_9Rg6_hplYNcUZMSF_fpWopFhKgPUEMMPkqDc=",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "category": "Gadgets",
+        "brand": "Opic",
+        "favorite": true
+      }
+]
